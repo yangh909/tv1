@@ -222,6 +222,11 @@ CCTV4K,http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
 
 
 电影,#genre#
+CHC动作电影,http://175.18.189.238:9902/tsfile/live/1014_1.m3u8?key=txiptv
+CHC高清电影,http://175.18.189.238:9902/tsfile/live/1015_1.m3u8?key=txiptv
+CHC家庭影院,http://175.18.189.238:9902/tsfile/live/1016_1.m3u8?key=txiptv
+
+
 CHC高清电影,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002065/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CHC家庭影院,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002085/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CHC动作电影,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002055/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
@@ -236,6 +241,11 @@ CHC高清电影,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807
 斗鱼电影1,http://tc-tct.douyucdn2.cn/dyliveflv1/85894rmovieChow_2000p.flv?wsAuth=f149db0a268e17b462c4032f715fc551&token=cpn-androidmpro-0-85894-a3575d938a4aa30976aaee9c53a07043e9aa8ec98785781a&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play1
 斗鱼电影2,http://tc-tct.douyucdn2.cn/dyliveflv1a/20415rnWbjg6Ex1K_2000.flv?wsAuth=c357f68d7199827c89663777da40c4ee&token=cpn-androidmpro-0-20415-b6774b3b3249db1798811cfe5c393414bcc73f076e3a65fa&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
 斗鱼电影3,http://tc-tct.douyucdn2.cn/dyliveflv1a/3637778raLSXdOdu_2000.flv?wsAuth=2413f01fb8568523b11a1fd79a98f906&token=cpn-androidmpro-0-3637778-8c089871434b93440d1eca0ac992619a50d6485ebb31150f&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
+
+
+成龙,http://zby.xjqxz.top/cldy/live.m3u8
+周星驰,http://zby.xjqxz.top/live12/live.m3u8
+李连杰,http://zby.xjqxz.top/lljdy/live.m3u8
 
 
 
