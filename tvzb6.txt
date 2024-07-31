@@ -79,7 +79,7 @@ CCTV4K,http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
 
 
 
-http://60.220.167.249:8082/rtp/226.0.2.97:8688
+武术世界,http://60.220.167.249:8082/rtp/226.0.2.97:8688
 武术世界,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638078be5d654/index.m3u8?AuthInfo=toEYVdLfxymUP2l9NZpQI5%2BK6T7j%2FlRm%2BvbM9VO7bA0MVaBO3fffRWKM%2FzNpNYjRBAiSJylXYBAiox0V94ejMfwEtXXuH8b8M%2F%2FDznZB61s
 武术世界,http://183.184.14.90:8002/rtp/226.0.2.97:8688
 武术世界,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638078be5d654/index.m3u8?m3u8_level=2
