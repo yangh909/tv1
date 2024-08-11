@@ -44,7 +44,11 @@ CCTV17,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/888888
 
 
 
-
+风云足球,http://hy.baojihzjc.com:9001/rtp/239.111.205.68:5140
+风云音乐,http://hy.baojihzjc.com:9001/rtp/239.111.205.69:5140
+央视台球,http://hy.baojihzjc.com:9001/rtp/239.111.205.70:5140
+世界地理,http://hy.baojihzjc.com:9001/rtp/239.111.205.71:5140
+兵器科技,http://hy.baojihzjc.com:9001/rtp/239.111.205.74:5140
 
 
 
@@ -58,7 +62,7 @@ CCTV17,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/888888
 
 
 
-武术世界,http://171.119.204.156:6000/rtp/226.0.2.97:8688
+武术世界,http://60.220.163.7:4000/rtp/226.0.2.97:8688
 武术世界,http://60.220.163.7:4000/rtp/226.0.2.97:8688
 武术世界,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638078be5d654/index.m3u8?m3u8_level=2
 
@@ -216,9 +220,9 @@ CETV-4,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/888888
 
 
 电影,#genre#
-CHC动作电影,http://60.220.163.7:4000/rtp/226.0.2.94:8012
-CHC高清电影,http://60.220.163.7:4000/rtp/226.0.2.93:8004
-CHC家庭影院,http://60.220.163.7:4000/rtp/226.0.2.240:9820
+CHC家庭影院,http://hy.baojihzjc.com:9001/rtp/239.112.205.205:5140
+CHC高清电影,http://hy.baojihzjc.com:9001/rtp/239.112.205.206:5140
+CHC动作电影,http://hy.baojihzjc.com:9001/rtp/239.112.205.207:5140
 
 CHC高清电影,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002065/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CHC家庭影院,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002085/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
