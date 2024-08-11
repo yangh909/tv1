@@ -58,8 +58,7 @@ CCTV17,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/888888
 
 
 
-武术世界,http://123.11.96.75:8089/rtp/225.1.4.101:1130
-武术世界,http://123.163.118.171:9000/rtp/239.16.20.173:11730
+武术世界,http://171.119.204.156:6000/rtp/226.0.2.97:8688
 武术世界,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638078be5d654/index.m3u8?AuthInfo=toEYVdLfxymUP2l9NZpQI5%2BK6T7j%2FlRm%2BvbM9VO7bA0MVaBO3fffRWKM%2FzNpNYjRBAiSJylXYBAiox0V94ejMfwEtXXuH8b8M%2F%2FDznZB61s
 武术世界,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638078be5d654/index.m3u8?m3u8_level=2
 
@@ -217,9 +216,9 @@ CETV-4,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/888888
 
 
 电影,#genre#
-CHC动作电影,http://175.18.189.238:9902/tsfile/live/1014_1.m3u8?key=txiptv
-CHC高清电影,http://175.18.189.238:9902/tsfile/live/1015_1.m3u8?key=txiptv
-CHC家庭影院,http://175.18.189.238:9902/tsfile/live/1016_1.m3u8?key=txiptv
+CHC动作电影,http://171.119.204.156:6000/rtp/226.0.2.94:8012
+CHC高清电影,http://171.119.204.156:6000/rtp/226.0.2.93:8004
+CHC家庭影院,http://171.119.204.156:6000/rtp/226.0.2.240:9820
 
 
 CHC高清电影,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002065/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
