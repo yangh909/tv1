@@ -217,10 +217,9 @@ CETV-4,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/888888
 
 
 电影频道,#genre#
-动作电影,http://222.141.133.239:8888/rtp/225.1.4.208:1261?$河南联通
-高清电影,http://222.141.133.239:8888/rtp/225.1.4.207:1260?$河南联通
-家庭影院,http://222.141.133.239:8888/rtp/225.1.4.209:1262?$河南联通
-
+高清电影,http://58.19.38.162:9901/tsfile/live/1038_1.m3u8
+CHC动作电影,http://58.19.38.162:9901/tsfile/live/1037_1.m3u8
+CHC家庭影院,http://58.19.38.162:9901/tsfile/live/1036_1.m3u8
 
 黑莓电影,http://[2409:8087:1a0b:df::4014]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
 斗鱼电影1,http://tc-tct.douyucdn2.cn/dyliveflv1/85894rmovieChow_2000p.flv?wsAuth=f149db0a268e17b462c4032f715fc551&token=cpn-androidmpro-0-85894-a3575d938a4aa30976aaee9c53a07043e9aa8ec98785781a&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play1
