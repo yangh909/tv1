@@ -230,7 +230,7 @@ CHC家庭影院,http://58.19.38.162:9901/tsfile/live/1036_1.m3u8
 成龙,http://zby.xjqxz.top/cldy/live.m3u8
 周星驰,http://zby.xjqxz.top/live12/live.m3u8
 李连杰,http://zby.xjqxz.top/lljdy/live.m3u8
-
+刘德华,https://stream1.freetv.fun/7beb142ac0e042f1fe010898c410d88a3bd1e0fd260a34d50a08ba80dec005e4.ctv
 
 
 变种人片,http://maomao.kandiantv.cn/douyu1.php?id=9651304
@@ -258,6 +258,16 @@ CHC家庭影院,http://58.19.38.162:9901/tsfile/live/1036_1.m3u8
 轮播」经典小品,http://tc-tct.douyucdn2.cn/dyliveflv3/10153463r0oBSmAG.flv?wsAuth=327f9acf257abce343423d9ca46ef9ae&token=cpn-androidmpro-0-10153463-ee6c60cb51b36154827caa4c2303ce140c03be821c37ac32&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play3
 
 
+星光视界频道,http://ali.hlspull.yximgs.com/live/zxcvbnm9852.flv
+重温经典卫星,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
+经典宫庭频道,http://live.dxms.top:80/dwy/gtjc.php
+经典清剧频道,http://live.dxms.top:80/dwy/jdqj.php
+经典天龙频道,http://live.dxms.top:80/dwy/jdtl.php
+金庸剧场频道,http://cfss.cc/cdn/hy/11602082.flv
+经典金庸频道,http://live.dxms.top:80/dwy/jyjc.php
+经典三国频道,http://live.dxms.top:80/dwy/jdsg.php
+经典喜剧频道,http://live.dxms.top:80/dwy/jdxj.php
+经典回忆频道,http://live.dxms.top:80/dwy/hyyy.php
 
 
 
