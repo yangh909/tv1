@@ -70,10 +70,6 @@ CCTV17,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/888888
 
 
 卫视频道,#genre#
-凤凰卫视,https://judy.mytvsuper.us.kg/stream/tvb/pcc/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
-凤凰资讯,https://judy.mytvsuper.us.kg/stream/tvb/pin/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
-香港卫视,https://judy.mytvsuper.us.kg/stream/tvb/phk/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
-
 凤凰资讯,https://test.zapi.us.kg/?id=phtv-info
 凤凰卫视,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8577/.m3u8
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
