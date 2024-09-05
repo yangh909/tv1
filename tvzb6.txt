@@ -266,7 +266,6 @@ CHC家庭影院,http://58.19.38.162:9901/tsfile/live/1036_1.m3u8
 斗鱼电影3,http://tc-tct.douyucdn2.cn/dyliveflv1a/3637778raLSXdOdu_2000.flv?wsAuth=2413f01fb8568523b11a1fd79a98f906&token=cpn-androidmpro-0-3637778-8c089871434b93440d1eca0ac992619a50d6485ebb31150f&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
 
 
-成龙,http://zby.xjqxz.top/cldy/live.m3u8
 周星驰,http://zby.xjqxz.top/live12/live.m3u8
 李连杰,http://zby.xjqxz.top/lljdy/live.m3u8
 刘德华,https://stream1.freetv.fun/7beb142ac0e042f1fe010898c410d88a3bd1e0fd260a34d50a08ba80dec005e4.ctv
@@ -309,20 +308,43 @@ CHC家庭影院,http://58.19.38.162:9901/tsfile/live/1036_1.m3u8
 经典回忆频道,http://live.dxms.top:80/dwy/hyyy.php
 
 星爷,http://cfss.cc/cdn/hy/11342412.flv
-林正英,https://lunbo.freetv.top/yy/1335509613
+林正英,https://lunbo.freetv.top/yy/1353685311
+林正英,https://lunbo.freetv.top/yy/1351505899
 古惑仔,https://lunbo.freetv.top/yy/1458015189
+成龙经典,https://lunbo.freetv.top/yy/34460526
+敢死队,https://lunbo.freetv.top/yy/1382735573
+变形金刚,https://lunbo.freetv.top/yy/1382736803
+经典港片,https://lunbo.freetv.top/yy/1382793140
+香港经典,https://lunbo.freetv.top/yy/1382627144
+2024盗幕鬼怪,https://lunbo.freetv.top/yy/1355171231
+动作电影,https://lunbo.freetv.top/yy/24923327
+科幻特效,https://lunbo.freetv.top/yy/37988782
+速度与激情,https://lunbo.freetv.top/yy/1382736911
+第一滴血,https://lunbo.freetv.top/yy/1354932355
+
+
+
+
+电视剧轮播,#genre#
 武林外传,https://lunbo.freetv.top/yy/1355652820
+武林外传,https://lunbo.freetv.top/yy/1353852605
+隋唐英雄传,https://lunbo.freetv.top/yy/1352475619
+83射雕英雄传,https://lunbo.freetv.top/yy/1354210357
 纪晓岚,https://lunbo.freetv.top/yy/1354143978
-
-
-
-
-
-
-
-
-
-
+纪晓岚,https://lunbo.freetv.top/yy/1382781415
+倚天屠龙记,https://lunbo.freetv.top/yy/1449856066
+天龙八部,https://lunbo.freetv.top/yy/1351814644
+康熙微服私访记,https://lunbo.freetv.top/yy/1352811698
+特种兵系列,https://lunbo.freetv.top/yy/1508456184
+封神榜,https://lunbo.freetv.top/yy/1353426319
+魔幻手机,https://lunbo.freetv.top/yy/1382851541
+宝莲灯前传,https://lunbo.freetv.top/yy/1354931631
+聊斋志异S1,https://lunbo.freetv.top/yy/1382736975
+三国演义【1994】,https://lunbo.freetv.top/yy/1354930932
+鬼吹灯之精绝古城,https://www.goodiptv.club/huya/11352871
+鬼吹灯之怒晴湘西,https://www.goodiptv.club/huya/11602075
+鬼吹灯之龙岭迷窟,https://www.goodiptv.club/huya/29465863
+鬼吹灯之云南虫谷,https://www.goodiptv.club/huya/11352898
 
 
 电影点播,#genre#
