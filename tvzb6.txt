@@ -309,9 +309,10 @@ CHC家庭影院,http://58.19.38.162:9901/tsfile/live/1036_1.m3u8
 经典回忆频道,http://live.dxms.top:80/dwy/hyyy.php
 
 星爷,http://cfss.cc/cdn/hy/11342412.flv
-英叔,http://cfss.cc/cdn/hy/11342421.flv
-
-
+林正英,https://lunbo.freetv.top/yy/1335509613
+古惑仔,https://lunbo.freetv.top/yy/1458015189
+武林外传,https://lunbo.freetv.top/yy/1355652820
+纪晓岚,https://lunbo.freetv.top/yy/1354143978
 
 
 
