@@ -81,7 +81,7 @@ CCTV17,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/888888
 凤凰资讯,http://58.144.154.93/qctv.fengshows.cn/live/0701pin72.m3u8
 凤凰香港,http://58.144.154.93/qctv.fengshows.cn/live/0701phk72.m3u8
 
-武术世界,http://php.jdshipin.com:8880/hntv.php?id=wspd
+武术世界,http://211.90.83.70:8002/rtp/226.0.2.97:8688
 武术世界,http://php.jdshipin.com:8880/hntv.php?id=wspd
 
 
