@@ -1,9 +1,13 @@
 央视频道,#genre#
 CCTV1，http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226895/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EI0Rkc6neBYgf POJ1yud8Fw%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 CCTV2，http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226893/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EcnoJZd_sZxCC 6bZYZh4R6g%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
+CCTV3，http://www.ccmjzhao.xyz/migu/tv.php?ID = CCTV3
 CCTV4，http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226335/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EBFJ5gRpm8ntK 8JEFPZOhLQ%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
+CCTV5，http://www.ccmjzhao.xyz/migu/tv.php?ID = CCTV5
 CCTV5+,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226894/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EevWZ0zmguDs OY_Mf3SM5TA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
+CCTV6，http://www.ccmjzhao.xyz/migu/tv.php?ID = CCTV6
 CCTV7,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226946/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E2bEV_zkW1hRnWmsZq6rlbw%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
+CCTV8，http://www.ccmjzhao.xyz/migu/tv.php?id = cctv8
 CCTV9,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226944/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EgdZMBjOTdDWVEgovFkZoew%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 CCTV10,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226937/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Egbbk6OxyTS2utbJWm7Qw1w%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 CCTV11,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226334/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E0RcQQbNseiHvFO8XWf466A%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
@@ -15,44 +19,26 @@ CCTV16,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221227002/1.m3u8?Guard
 CCTV17,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226318/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EEkwQnoHNXRDb-IayWakK1A%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 
 
-CCTV1，http://www.ccmjzhao.xyz/migu/tv.php ？ID = CCTV1
-CCTV2，http://www.ccmjzhao.xyz/migu/tv.php ？ID = CCTV2
-CCTV3，http://www.ccmjzhao.xyz/migu/tv.php ？ID = CCTV3
-CCTV4，http://www.ccmjzhao.xyz/migu/tv.php ？ID = CCTV4
-CCTV5，http://www.ccmjzhao.xyz/migu/tv.php ？ID = CCTV5
-CCTV5+，http://www.ccmjzhao.xyz/migu/tv.php ？ID = CCTV5P
-CCTV6，http://www.ccmjzhao.xyz/migu/tv.php ？ID = CCTV6
-CCTV7，http://www.ccmjzhao.xyz/migu/tv.php ？ID = CCTV7
-CCTV8，http://www.ccmjzhao.xyz/migu/tv.php？id = cctv8
-CCTV9，http://www.ccmjzhao.xyz/migu/tv.php？id = cctv9
-CCTV10，http://www.ccmjzhao.xyz/migu/tv.php？id = cctv10
-CCTV11，http://www.ccmjzhao.xyz/migu/tv.php？id = cctv11
-cctv12，http://www.ccmjzhao.xyz/migu/tv.php？id = cctv12
-CCTV13，http://www.ccmjzhao.xyz/migu/tv.php？id = cctv13
-CCTV14，http://www.ccmjzhao.xyz/migu/tv.php？id = cctv14
-CCTV15，http://www.ccmjzhao.xyz/migu/tv.php？id = cctv15
-CCTV17，http://www.ccmjzhao.xyz/migu/tv.php？id = cctv17
+CCTV1，http://www.ccmjzhao.xyz/migu/tv.php?ID = CCTV1
+CCTV2，http://www.ccmjzhao.xyz/migu/tv.php?ID = CCTV2
+CCTV3，http://www.ccmjzhao.xyz/migu/tv.php?ID = CCTV3
+CCTV4，http://www.ccmjzhao.xyz/migu/tv.php?ID = CCTV4
+CCTV5，http://www.ccmjzhao.xyz/migu/tv.php?ID = CCTV5
+CCTV5+，http://www.ccmjzhao.xyz/migu/tv.php?ID = CCTV5P
+CCTV6，http://www.ccmjzhao.xyz/migu/tv.php?ID = CCTV6
+CCTV7，http://www.ccmjzhao.xyz/migu/tv.php?ID = CCTV7
+CCTV8，http://www.ccmjzhao.xyz/migu/tv.php?id = cctv8
+CCTV9，http://www.ccmjzhao.xyz/migu/tv.php?id = cctv9
+CCTV10，http://www.ccmjzhao.xyz/migu/tv.php?id = cctv10
+CCTV11，http://www.ccmjzhao.xyz/migu/tv.php?id = cctv11
+cctv12，http://www.ccmjzhao.xyz/migu/tv.php?id = cctv12
+CCTV13，http://www.ccmjzhao.xyz/migu/tv.php?id = cctv13
+CCTV14，http://www.ccmjzhao.xyz/migu/tv.php?id = cctv14
+CCTV15，http://www.ccmjzhao.xyz/migu/tv.php?id = cctv15
+CCTV17，http://www.ccmjzhao.xyz/migu/tv.php?id = cctv17
 
 
 
-
-CCTV1，http://www.ccmjzhao.xyz/migu/tv.php ？ID = CCTV1
-CCTV2，http://www.ccmjzhao.xyz/migu/tv.php ？ID = CCTV2
-CCTV3，http://www.ccmjzhao.xyz/migu/tv.php ？ID = CCTV3
-CCTV4，http://www.ccmjzhao.xyz/migu/tv.php ？ID = CCTV4
-CCTV5，http://www.ccmjzhao.xyz/migu/tv.php ？ID = CCTV5
-CCTV5+，http://www.ccmjzhao.xyz/migu/tv.php ？ID = CCTV5P
-CCTV6，http://www.ccmjzhao.xyz/migu/tv.php ？ID = CCTV6
-CCTV7，http://www.ccmjzhao.xyz/migu/tv.php ？ID = CCTV7
-CCTV8，http://www.ccmjzhao.xyz/migu/tv.php？id = cctv8
-CCTV9，http://www.ccmjzhao.xyz/migu/tv.php？id = cctv9
-CCTV10，http://www.ccmjzhao.xyz/migu/tv.php？id = cctv10
-CCTV11，http://www.ccmjzhao.xyz/migu/tv.php？id = cctv11
-cctv12，http://www.ccmjzhao.xyz/migu/tv.php？id = cctv12
-CCTV13，http://www.ccmjzhao.xyz/migu/tv.php？id = cctv13
-CCTV14，http://www.ccmjzhao.xyz/migu/tv.php？id = cctv14
-CCTV15，http://www.ccmjzhao.xyz/migu/tv.php？id = cctv15
-CCTV17，http://www.ccmjzhao.xyz/migu/tv.php？id = cctv17
 
 
 
